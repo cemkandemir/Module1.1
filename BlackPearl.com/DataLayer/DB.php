@@ -34,5 +34,6 @@
 			return ($this->connection->query($query) === TRUE);
 		}
 		
+		
 	}
 ?>
